@@ -36,7 +36,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
 
   s.ios.deployment_target = "12.0"
-  s.source       = { :http => "https://github.com/vervegroup/VerveSDK/releases/download/1.0.0.beta/VerveSDK.xcframework.zip" }
+  s.source       = { :http => "https://github.com/vervegroup/VerveSDK/releases/download/1.0.0-beta/VerveSDK.xcframework.zip" }
   s.vendored_framework = 'VerveSDK.xcframework'
 
 end
