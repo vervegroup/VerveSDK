@@ -1,8 +1,10 @@
 Currently VerveSDK can be added into your project via:
 
--   [Cocoapods](https://github.com/vervegroup/VerveSDK-iOS-Specs/new/main?readme=1#cocoapods "https://github.com/vervegroup/VerveSDK-iOS-Specs/new/main?readme=1#cocoapods")
+-   Cocoapods
     
--   [Drag & Drop](https://github.com/vervegroup/VerveSDK-iOS-Specs/new/main?readme=1#drag--drop "https://github.com/vervegroup/VerveSDK-iOS-Specs/new/main?readme=1#drag--drop")
+-   Drag & Drop
+
+-    Swift Package Manager (TBD)
     
 
 ## Cocoapods
