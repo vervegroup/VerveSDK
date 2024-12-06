@@ -13,7 +13,7 @@ In order to add VerveSDK into your project by using [Cocoapods](https://cocoapod
 
 ## Drag & Drop
 
-1.  [Download](https://github.com/vervegroup/VerveSDK-iOS-Specs/releases "https://github.com/pubnative/vervegroup/VerveSDK-iOS-Specs") a copy of ATOM, or clone its repository and make sure you checkout the latest tagged version.
+1.  [Download](https://github.com/vervegroup/VerveSDK-iOS-Specs/releases "https://github.com/pubnative/vervegroup/VerveSDK-iOS-Specs") a copy of VerveSDK, or clone its repository and make sure you checkout the latest tagged version.
     
 2.  Embed the `VerveSDK.xcframework` project in your own project.
     
